@@ -14,11 +14,11 @@ This project implements a simple TCP client/server in C. The client reads an int
 ---
 
 ## 2. Architecture
-
+```
    Client (bind:57476) ──TCP──> Server (listen:50072)
     │                                │
     └─ send {name, num}              └─ send {name, num}
-
+```
 
 - **Server port**: 50072  
 - **Client port**: 57476  
