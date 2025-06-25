@@ -1,4 +1,3 @@
-```markdown
 # Design Document
 
 **Course**: CSCI 3550 – Communication Networks  
